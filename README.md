@@ -1,10 +1,3 @@
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/USERNAME/NAMEOFREPOSITORY.git
-git push -u origin main
-
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
